@@ -97,3 +97,14 @@ Gửi header:
 Authorization: Bearer abc123
 
 <img width="1213" height="848" alt="image" src="https://github.com/user-attachments/assets/7e564389-5674-464e-a58c-1412e294c83b" />
+
+
+
+## Question: Modify code to make token exprired
+
+Rút ngắn thời gian expiresIn
+
+Ví dụ cho token hết hạn sau 5 giây:
+
+<img width="802" height="85" alt="image" src="https://github.com/user-attachments/assets/fe4d8398-6be1-4443-81ff-fbc1dbe971ac" />
+
